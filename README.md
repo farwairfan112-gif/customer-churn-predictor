@@ -2,7 +2,7 @@
 
 > An end-to-end machine learning web app predicting telecom customer churn — built with Python, trained on 7,043 records, deployed on Streamlit.
 
- **[Live Demo](https://your-streamlit-link.streamlit.app)** ← replace after deploying
+ **[Live Demo](https://customer-churn-predictor-ttolzwyqfumqfzeocd39cn.streamlit.app/)** 
 
 ---
 
