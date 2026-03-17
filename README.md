@@ -66,7 +66,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Farwa Irfan** — Data Scientist & Analyst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farwa-irfan-372141212/)
